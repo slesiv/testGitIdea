@@ -5,4 +5,5 @@ public class Person {
 	private String first;
 	private String last;
 	private int age;
+	private String tel;
 }
